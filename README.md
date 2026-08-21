@@ -105,3 +105,4 @@ pip install -r requirements.txt
 - `calculateVolume.py` — расчёт объёмов земляных работ и визуализация модели.
 - `convertCsvToSdr.py` — экспорт геодезических точек в SDR.
 - `convertSdrToCsv.py` — импорт SDR в CSV для дальнейшей обработки.
+- `sdr_importer.rb` — импорт SDR-файла в SketchUp: создаёт точки, подписи и линии между ними в 3D-модели.
